@@ -1,7 +1,5 @@
 # Plotly Sample Datasets
 
-License: [GPL-3](https://github.com/plotly/datasets/blob/master/LICENSE)
-
 | Dataset name | Best for | Origin | Chart example | Download | Open in Plotly |
 | --- | --- | --- | ---  | ---  | ---  |
 | Walmart store openings | Maps | Unknown | [Python](https://plot.ly/python/map-subplots-and-small-multiples/) | [Download](https://github.com/plotly/datasets/blob/master/1962_2006_walmart_store_openings.csv) | [Open](https://plot.ly/16263/~jackp/) |
@@ -10,6 +8,7 @@ License: [GPL-3](https://github.com/plotly/datasets/blob/master/LICENSE)
 | 2011 February US airport traffic | Maps | Unknown | [JavaScript](https://plot.ly/javascript/scatter-plots-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2011_february_us_airport_traffic.csv) | [Open](https://plot.ly/7926/~Dreamshot/) |
 | 2011 US agriculture exports | Maps | Unknown | [R](https://plot.ly/r/choropleth-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2011_us_ag_exports.csv) | [Open](https://plot.ly/7923/~Dreamshot/) |
 | 2014 Apple stock | Maps | Unknown | [Python](https://plot.ly/python/html-reports/) | [Download](https://github.com/plotly/datasets/blob/master/2014_apple_stock.csv) | [Open](https://plot.ly/7928/~Dreamshot/) |
+| 2015 Shooting Incidents | Maps | Unknown | [R](https://plot.ly/r/choropleth-maps/) | [Download](https://github.com/plotly/datasets/blob/master/US-shooting-incidents.csv) | [Open](https://chart-studio.plot.ly/~mahdis/300) |
 | 2014 ebola | Maps | Unknown | [Python](https://plot.ly/python/bubble-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_ebola.csv) | [Open](https://plot.ly/7930/~Dreamshot/) |
 | 2014 US cities population | Maps | Unknown | [Python](https://plot.ly/python/bubble-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_us_cities.csv) | [Open](https://plot.ly/7932/~Dreamshot/) |
 | 2014 US states population | Maps | Unknown | [Python](https://plot.ly/python/bubble-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_usa_states.csv) | [Open](https://plot.ly/7934/~Dreamshot/) |
@@ -20,11 +19,12 @@ License: [GPL-3](https://github.com/plotly/datasets/blob/master/LICENSE)
 | Bubble charts with Excel | Basic | Unknown | [Excel](http://help.plot.ly/excel/bubble-chart/) | [Download](https://github.com/plotly/datasets/blob/master/bubble_chart_tutorial.csv) | [Open](https://plot.ly/7944/~Dreamshot/) |
 | Three Y axes with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/three-y-axes/) | [Download](https://github.com/plotly/datasets/blob/master/cost_output_defective.csv) | [Open](https://plot.ly/7946/~Dreamshot/) |
 | Dot plot with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/dot-plots/) | [Download](https://github.com/plotly/datasets/blob/master/dot-plot-with-excel.csv) | [Open](https://plot.ly/7948/~Dreamshot/) |
-| Gapminder data | Streaming | Unknown | [Python](https://plot.ly/python/streaming-bubbles-tutorial/) | [Download](https://github.com/plotly/datasets/blob/master/gapminderDataFiveYear.csv) | [Open](https://plot.ly/7950/~Dreamshot/) |
+| Gapminder data | Streaming | [Jenny Bryan](https://github.com/jennybc/gapminder) | [Python](https://plot.ly/python/streaming-bubbles-tutorial/) | [Download](https://github.com/plotly/datasets/blob/master/gapminderDataFiveYear.csv) | [Open](https://plot.ly/7950/~Dreamshot/) |
 | Globe contours | Maps | Unknown | [Python](https://plot.ly/python/lines-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/globe_contours.csv) | [Open](https://plot.ly/7952/~Dreamshot/) |
 | Inset plot | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/insets) | [Download](https://github.com/plotly/datasets/blob/master/inset.csv) | [Open](https://plot.ly/7954/~Dreamshot/) |
 | Text scatter charts | Basic | Unknown | [Excel](http://help.plot.ly/excel/text-scatter-chart) | [Download](https://github.com/plotly/datasets/blob/master/label-text.csv) | [Open](https://plot.ly/7956/~Dreamshot/) |
 | LaTeX typesetting | Basic | Unknown | [Excel](http://help.plot.ly/excel/LaTeX) | [Download](https://github.com/plotly/datasets/blob/master/latex-typesetting-with-excel.csv) | [Open](https://plot.ly/7958/~Dreamshot/) |
+| NYC Uber rides | Maps | Unknown | [R](https://plot.ly/r/scattermapbox/) | [Download](https://github.com/plotly/datasets/blob/master/uber-rides-data1.csv) | N.A. |
 | Online dating | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/graph-with-multiple-axes/) | [Download](https://github.com/plotly/datasets/blob/master/multiple_y_axis.csv) | [Open](https://plot.ly/7960/~Dreamshot/) |
 | OKCupid compatibility by religion | Basic | Unknown | [Excel](http://help.plot.ly/excel/heatmap) | [Download](https://github.com/plotly/datasets/blob/master/okcupid-compatibility-by-religion.csv) | [Open](https://plot.ly/7962/~Dreamshot/) |
 | Pareto chart | Basic | Unknown | [Excel](http://help.plot.ly/excel/pareto-chart) | [Download](https://github.com/plotly/datasets/blob/master/pareto-chart.csv) | [Open](https://plot.ly/7964/~Dreamshot/) |
@@ -38,3 +38,4 @@ License: [GPL-3](https://github.com/plotly/datasets/blob/master/LICENSE)
 | Volcano | Maps | Unknown | [Pandas](https://plot.ly/pandas/3d-surface-plots/) | [Download](https://github.com/plotly/datasets/blob/master/volcano.csv) | [Open](https://plot.ly/7980/~Dreamshot/) |
 | Wind rose | Maps | Unknown | [Python](https://plot.ly/python/wind-rose-charts/) | [Download](https://github.com/plotly/datasets/blob/master/wind_rose.csv) | [Open](https://plot.ly/7982/~Dreamshot/) |
 | Wind speed | Statistical | Unknown | [Pandas](https://plot.ly/pandas/error-bars/) | [Download](https://github.com/plotly/datasets/blob/master/wind_speed_laurel_nebraska.csv) | [Open](https://plot.ly/7984/~Dreamshot/) |
+| Prostate cancer | Clustergram | [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) | [Dash Bio](https://dash-bio.plotly.host/dash-clustergram/) | [Download](https://github.com/plotly/datasets/blob/master/clustergram_GDS5373.soft) | NA |
